@@ -106,7 +106,7 @@ function App() {
       setUser(user + 1);
     }
     if (u === "r" && c === "p") {
-      setScore("Paper is covered by paper. You lost :(");
+      setScore("Rock is covered by paper. You lost :(");
       setComp(comp + 1);
     }
     if (u === "p" && c === "r") {
