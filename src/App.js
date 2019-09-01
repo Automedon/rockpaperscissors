@@ -74,7 +74,7 @@ const Result = styled.div`
   font-weight: bold;
   p {
     text-align: center;
-    @media (min-width: 768px) {
+    @media (max-width: 768px) {
       font-size: 16px;
     }
   }
