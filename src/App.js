@@ -160,7 +160,8 @@ function App() {
 
       {weapons.user ? (
         <p id="action-msg">
-          Your weapon '{weapons.user}'. Computer weapon '{weapons.computer}'.
+          Your weapon is '{weapons.user}'. Computer weapon is '
+          {weapons.computer}'.
         </p>
       ) : (
         <h1 style={{ color: "green", textAlign: "center" }}>
