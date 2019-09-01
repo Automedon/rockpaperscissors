@@ -95,7 +95,7 @@ function App() {
   };
   const whoWin = u => {
     const arr = ["p", "s", "r"];
-    const c = arr[Math.abs(Math.round(Math.random() * arr.length - 1))];
+    const c = arr[~~(Math.random() * arr.length)];
     if (u === c) setScore(`Tie`);
     if (u === "p" && c === "s") {
       setScore("Paper is cut by scissors. You lost :(");

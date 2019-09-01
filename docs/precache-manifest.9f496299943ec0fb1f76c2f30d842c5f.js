@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8bec53977d0cf2aa7bda1b9fcd8c4936",
+    "revision": "1d3419ac70282157a7696b2a029d911c",
     "url": "/rockpaperscissors/index.html"
   },
   {
-    "revision": "9a8ec6b80b8def2fddfd",
+    "revision": "fa4cb76f5b65841ae905",
     "url": "/rockpaperscissors/static/css/main.7830fe05.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rockpaperscissors/static/js/2.3314106c.chunk.js"
   },
   {
-    "revision": "9a8ec6b80b8def2fddfd",
-    "url": "/rockpaperscissors/static/js/main.77883fb6.chunk.js"
+    "revision": "fa4cb76f5b65841ae905",
+    "url": "/rockpaperscissors/static/js/main.9793e86d.chunk.js"
   },
   {
     "revision": "0cb68f758ac9e6ff5c01",
