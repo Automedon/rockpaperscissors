@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Automedon/rockpaperscissors/static/css/main.7830fe05.chunk.css",
+    "main.js": "/Automedon/rockpaperscissors/static/js/main.4afd6c73.chunk.js",
+    "main.js.map": "/Automedon/rockpaperscissors/static/js/main.4afd6c73.chunk.js.map",
+    "runtime~main.js": "/Automedon/rockpaperscissors/static/js/runtime~main.8893ef32.js",
+    "runtime~main.js.map": "/Automedon/rockpaperscissors/static/js/runtime~main.8893ef32.js.map",
+    "static/js/2.4782c4e1.chunk.js": "/Automedon/rockpaperscissors/static/js/2.4782c4e1.chunk.js",
+    "static/js/2.4782c4e1.chunk.js.map": "/Automedon/rockpaperscissors/static/js/2.4782c4e1.chunk.js.map",
+    "index.html": "/Automedon/rockpaperscissors/index.html",
+    "precache-manifest.94bd4029a7b03e78675673b0cd6c61d2.js": "/Automedon/rockpaperscissors/precache-manifest.94bd4029a7b03e78675673b0cd6c61d2.js",
+    "service-worker.js": "/Automedon/rockpaperscissors/service-worker.js",
+    "static/css/main.7830fe05.chunk.css.map": "/Automedon/rockpaperscissors/static/css/main.7830fe05.chunk.css.map",
+    "static/media/paper.png": "/Automedon/rockpaperscissors/static/media/paper.d203c331.png",
+    "static/media/rock-paper-scissors-icon-5.jpg": "/Automedon/rockpaperscissors/static/media/rock-paper-scissors-icon-5.e4eec66b.jpg",
+    "static/media/rock.png": "/Automedon/rockpaperscissors/static/media/rock.02de7907.png"
+  }
+}
